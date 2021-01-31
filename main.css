@@ -35,6 +35,8 @@ body {
 
 article {
     border-bottom: 1px solid #ccc;
+    font-family: "Georgia", serif;
+    font-size: large;
 }
 
 article header h2 {
